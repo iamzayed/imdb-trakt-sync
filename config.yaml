@@ -12,8 +12,7 @@ IMDB:
     # Keep in mind the maximum number of lists you can have in Trakt: https://twitter.com/trakt/status/1536751362943332352
     # In order to get the ID of an IMDb list, open it from a browser - the ID is in the URL with format ls#########
     LISTS:
-        - ls000000000
-        - ls111111111
+        - ls004682079
 SYNC:
     # Sync mode to be used when running the application
     # The value must be one of the following:
